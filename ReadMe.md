@@ -13,10 +13,4 @@ Hello friend! 👋<br><br>🚀 Back-end student exploring the areas of what I ca
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaviVeloso&theme=radical&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DaviVeloso&theme=radical&no-frame=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=DaviVeloso&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
