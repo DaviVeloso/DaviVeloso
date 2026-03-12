@@ -14,7 +14,7 @@ Hello friend! 👋<br><br>🚀 Back-end student exploring the areas of what I ca
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaviVeloso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=DaviVeloso&theme=radical&no-frame=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaviVeloso&icon=0&color=0)](https://visitcount.itsvg.in)
