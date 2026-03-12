@@ -13,7 +13,7 @@ Hello friend! 👋<br><br>🚀 Back-end student exploring the areas of what I ca
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DaviVeloso&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVeloso&layout=compact&theme=radical&hide_border=true)
+
 
 
 
